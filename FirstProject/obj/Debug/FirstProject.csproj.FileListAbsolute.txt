@@ -1,0 +1,7 @@
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\FirstProject\obj\Debug\FirstProject.pdb

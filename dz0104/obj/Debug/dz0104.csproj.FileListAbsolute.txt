@@ -1,0 +1,7 @@
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\dz0104\bin\Debug\dz0104.exe.config
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\dz0104\bin\Debug\dz0104.exe
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\dz0104\bin\Debug\dz0104.pdb
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\dz0104\obj\Debug\dz0104.csproj.AssemblyReference.cache
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\dz0104\obj\Debug\dz0104.csproj.CoreCompileInputs.cache
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\dz0104\obj\Debug\dz0104.exe
+C:\Users\Тетяна\OneDrive\Робочий стіл\C# NET\dz0104\obj\Debug\dz0104.pdb

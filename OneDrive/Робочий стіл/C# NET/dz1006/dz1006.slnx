@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ClassLibrary1/ShopLibrary.csproj" />
+  <Project Path="dz1006.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\bin\Debug\net10.0\dz2906.exe
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\bin\Debug\net10.0\dz2906.deps.json
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\bin\Debug\net10.0\dz2906.runtimeconfig.json
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\bin\Debug\net10.0\dz2906.dll
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\bin\Debug\net10.0\dz2906.pdb
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\obj\Debug\net10.0\dz2906.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\obj\Debug\net10.0\dz2906.AssemblyInfoInputs.cache
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\obj\Debug\net10.0\dz2906.AssemblyInfo.cs
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\obj\Debug\net10.0\dz2906.csproj.CoreCompileInputs.cache
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\obj\Debug\net10.0\dz2906.sourcelink.json
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\obj\Debug\net10.0\dz2906.dll
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\obj\Debug\net10.0\refint\dz2906.dll
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\obj\Debug\net10.0\dz2906.pdb
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\obj\Debug\net10.0\dz2906.genruntimeconfig.cache
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\dz2906\obj\Debug\net10.0\ref\dz2906.dll

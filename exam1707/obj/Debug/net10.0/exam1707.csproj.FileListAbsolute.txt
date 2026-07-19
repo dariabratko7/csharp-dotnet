@@ -1,0 +1,13 @@
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\bin\Debug\net10.0\exam1707.exe
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\bin\Debug\net10.0\exam1707.deps.json
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\bin\Debug\net10.0\exam1707.runtimeconfig.json
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\bin\Debug\net10.0\exam1707.dll
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\bin\Debug\net10.0\exam1707.pdb
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\obj\Debug\net10.0\exam1707.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\obj\Debug\net10.0\exam1707.csproj.CoreCompileInputs.cache
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\obj\Debug\net10.0\exam1707.sourcelink.json
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\obj\Debug\net10.0\exam1707.dll
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\obj\Debug\net10.0\refint\exam1707.dll
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\obj\Debug\net10.0\exam1707.pdb
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\obj\Debug\net10.0\exam1707.genruntimeconfig.cache
+C:\Users\Тетяна\OneDrive\Робочий стіл\системне програмування\exam1707\obj\Debug\net10.0\ref\exam1707.dll

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DataValidationLib/DataValidationLib.csproj" />
+  <Project Path="exam1707.csproj" />
+</Solution>

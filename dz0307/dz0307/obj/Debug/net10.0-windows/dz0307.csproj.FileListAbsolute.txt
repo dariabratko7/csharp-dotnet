@@ -1,0 +1,6 @@
+D:\Daria\Desktop\системне програмування\dz0307\dz0307\obj\Debug\net10.0-windows\dz0307.Form1.resources
+D:\Daria\Desktop\системне програмування\dz0307\dz0307\obj\Debug\net10.0-windows\dz0307.csproj.GenerateResource.cache
+D:\Daria\Desktop\системне програмування\dz0307\dz0307\obj\Debug\net10.0-windows\dz0307.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daria\Desktop\системне програмування\dz0307\dz0307\obj\Debug\net10.0-windows\dz0307.AssemblyInfoInputs.cache
+D:\Daria\Desktop\системне програмування\dz0307\dz0307\obj\Debug\net10.0-windows\dz0307.AssemblyInfo.cs
+D:\Daria\Desktop\системне програмування\dz0307\dz0307\obj\Debug\net10.0-windows\dz0307.csproj.CoreCompileInputs.cache

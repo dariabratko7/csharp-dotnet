@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CurrencyServer.App\\CurrencyServer.App.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CurrencyClient.App\\CurrencyClient.App.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClientApp/ClientApp.csproj" />
+  <Project Path="dz2108/dz2108.csproj" />
+</Solution>
